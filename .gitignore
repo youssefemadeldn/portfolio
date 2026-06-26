@@ -42,3 +42,9 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Project context files (session handoffs, raw assets, figma exports)
+/context/
+
+# Large binary mockup assets (stored in context/portfolio-assets-webp.zip)
+/src/assets/mockups/
