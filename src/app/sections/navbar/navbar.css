@@ -91,6 +91,12 @@
   padding: 4px;
 }
 
+@media (min-width: 768px) {
+  .hamburger {
+    display: none;
+  }
+}
+
 .hamburger-line {
   display: block;
   width: 24px;
