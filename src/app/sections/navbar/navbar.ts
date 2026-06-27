@@ -33,8 +33,12 @@ interface NavLink {
         </ul>
 
         <!-- Resume CTA -->
-        <!-- TODO: replace href="#" with actual PDF resume link -->
-        <a href="#" class="navbar-resume hidden md:block">Resume</a>
+        <a
+          href="https://drive.google.com/uc?export=download&id=1-mTTF9glNxVQYjeork38iXqIi_biSxpE"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="navbar-resume hidden md:block"
+        >Resume</a>
 
         <!-- Hamburger -->
         <button class="hamburger md:hidden" (click)="toggleMenu()" aria-label="Toggle menu">
@@ -61,7 +65,12 @@ interface NavLink {
               </li>
             }
           </ul>
-          <a href="#" class="navbar-resume mt-6 self-start">Resume</a>
+          <a
+            href="https://drive.google.com/uc?export=download&id=1-mTTF9glNxVQYjeork38iXqIi_biSxpE"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="navbar-resume mt-6 self-start"
+          >Resume</a>
         </div>
       }
     </nav>
