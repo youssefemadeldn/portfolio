@@ -47,4 +47,4 @@ Thumbs.db
 /context/
 
 # Large binary mockup assets (stored in context/portfolio-assets-webp.zip)
-/src/assets/mockups/
+# Assets moved to public/assets/mockups/ (git-tracked, served at /assets/mockups/)
