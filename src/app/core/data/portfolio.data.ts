@@ -71,7 +71,7 @@ export interface PortfolioData {
 
 export const PORTFOLIO_DATA: PortfolioData = {
   personal: {
-    name: 'Youssef Emad',
+    name: 'Youssef Emad Eldin',
     title: 'Flutter Developer',
     tagline:
       'Building cross-platform mobile apps with Clean Architecture and BLoC. Open to freelance and full-time opportunities.',
