@@ -48,3 +48,7 @@ Thumbs.db
 
 # Large binary mockup assets (stored in context/portfolio-assets-webp.zip)
 # Assets moved to public/assets/mockups/ (git-tracked, served at /assets/mockups/)
+
+# Playwright MCP debug artifacts
+/.playwright-mcp/
+*.png
